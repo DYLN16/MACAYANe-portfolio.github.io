@@ -301,7 +301,7 @@ section img#mountains_front
     background: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)),url(images/cyberbg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    padding-left: 15%;
+    padding-left: 5%;
     padding-top: 2%;
     padding-bottom: 1%;
     justify-content: center;
