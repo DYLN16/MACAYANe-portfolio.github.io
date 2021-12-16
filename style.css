@@ -394,7 +394,7 @@ p
     display: inline-flex;
     gap: 0;
     width: 300px;
-    margin: 5PX;
+    margin: 10PX;
 }
 .box-container .box{
     border: none;
