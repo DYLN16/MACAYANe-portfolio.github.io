@@ -539,7 +539,7 @@ p
     width: 95%;
     height: 103vh;;
     position: relative;
-    background: url(images/CERTBG.png);
+    background: url(/images/CERTBG.png);
     background-size: cover;
     padding-left: 70px;
     padding-bottom: 0;
