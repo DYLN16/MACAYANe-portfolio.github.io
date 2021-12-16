@@ -374,27 +374,27 @@ p
     display: inline-flex;
     gap: 1em;
     width: 150px;
-    margin: 40px;
+    margin: 10px;
     margin-top: 3%;
 }
 .box-container1{
     display: inline-flex;
     gap: 1em;
     width: 350px;
-    margin: 40PX;
+    margin: 10PX;
 }
 .box-containerW{
     display: inline-flex;
     gap: 1em;
     width: 200px;
-    margin: 40PX;
+    margin: 10PX;
 }
 .cert-container
 {
     display: inline-flex;
     gap: 0;
     width: 300px;
-    margin: 15PX;
+    margin: 5PX;
 }
 .box-container .box{
     border: none;
@@ -539,7 +539,7 @@ p
     width: 95%;
     height: 103vh;;
     position: relative;
-    background: url(/images/CERTBG.png);
+    background: url(images/CERTBG.png);
     background-size: cover;
     padding-left: 70px;
     padding-bottom: 0;
